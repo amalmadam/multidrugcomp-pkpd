@@ -1,4 +1,4 @@
-## This is a repository containing the spreadsheets used for the generation of the figures in the paper, 'Final_paper_name'.
+# This is a repository containing the spreadsheets used for the generation of the figures in the paper, 'Final_paper_name'.
 
 ### Requirements: Matlab R2013 or later.
 
