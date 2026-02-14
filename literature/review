@@ -1,1 +1,239 @@
+@article{argenziano1998vasodilatory,
+  author    = {Argenziano, Michael and others},
+  title     = {Management of Vasodilatory Shock after Cardiac Surgery: Identification of Predisposing Factors and Use of a Novel Pressor Agent},
+  journal   = {The Journal of Thoracic and Cardiovascular Surgery},
+  volume    = {116},
+  number    = {6},
+  pages     = {973--980},
+  year      = {1998},
+  month     = dec,
+  doi       = {10.1016/s0022-5223(98)70049-2},
+  url       = {https://doi.org/10.1016/s0022-5223(98)70049-2},
+  note      = {Accessed 10 Feb. 2022}
+}
 
+@misc{buck2008epinephrine,
+  author    = {Buck, Marcia},
+  title     = {PEDIATRIC PHARMACOTHERAPY Self-Injectable Epinephrine for Initial Management of Anaphylaxis in Children},
+  year      = {2008}
+}
+
+@misc{cleviprex2023video,
+  title     = {CLEVIPREX Dosing and Administration Video},
+  year      = {2023},
+  month     = feb,
+  howpublished = {\url{https://cleviprex.com/dosing-administration/?gclid=EAIaIQobChMIw7WKz9q1_QIVFR19Ch1vkQmVEAAYASAAEgKY3vD_BwE}},
+  note      = {Accessed 9 Apr. 2025}
+}
+
+@article{clutter1980epinephrine,
+  author    = {Clutter, W. E. and others},
+  title     = {Epinephrine Plasma Metabolic Clearance Rates and Physiologic Thresholds for Metabolic and Hemodynamic Actions in Man},
+  journal   = {Journal of Clinical Investigation},
+  volume    = {66},
+  number    = {1},
+  pages     = {94--101},
+  year      = {1980},
+  month     = jul,
+  doi       = {10.1172/jci109840}
+}
+
+@article{debaty2018shock,
+  author    = {Debaty, Guillaume and others},
+  title     = {Shock-Associated Cardiac Arrest: Vasodilator Therapy May Help},
+  journal   = {American Journal of Respiratory and Critical Care Medicine},
+  volume    = {197},
+  number    = {7},
+  pages     = {850--852},
+  year      = {2018},
+  month     = apr,
+  doi       = {10.1164/rccm.201712-2596ed},
+  note      = {Accessed 9 Apr. 2025}
+}
+
+@misc{aha2021epinephrine,
+  title     = {Earlier Epinephrine Treatment during Cardiac Arrest Linked to Better Recovery},
+  year      = {2021},
+  howpublished = {\url{https://newsroom.heart.org/news/earlier-epinephrine-treatment-during-cardiac-arrest-linked-to-better-recovery}},
+  note      = {American Heart Association Resuscitation Science Symposium 2021, Presentation 8875}
+}
+
+@article{ericsson2000clevidipine1,
+  author    = {Ericsson, H. and others},
+  title     = {Pharmacokinetics and Arteriovenous Differences in Clevidipine Concentration Following a Short- and a Long-Term Intravenous Infusion in Healthy Volunteers},
+  journal   = {Anesthesiology},
+  volume    = {92},
+  number    = {4},
+  pages     = {993--1001},
+  year      = {2000},
+  url       = {https://pubmed.ncbi.nlm.nih.gov/10754618/},
+  doi       = {10.1097/00000542-200004000-00016}
+}
+
+@article{ericsson1999clevidipine2,
+  author    = {Ericsson, H. and others},
+  title     = {Pharmacokinetics and Pharmacodynamics of Clevidipine in Healthy Volunteers after Intravenous Infusion},
+  journal   = {European Journal of Clinical Pharmacology},
+  volume    = {55},
+  number    = {1},
+  pages     = {61--67},
+  year      = {1999},
+  url       = {https://pubmed.ncbi.nlm.nih.gov/10206087/},
+  doi       = {10.1007/s002280050594}
+}
+
+@article{foulon2018norepinephrine,
+  author    = {Foulon, Pierre and De Backer, Daniel},
+  title     = {The Hemodynamic Effects of Norepinephrine: Far More than an Increase in Blood Pressure!},
+  journal   = {Annals of Translational Medicine},
+  volume    = {6},
+  number    = {S1},
+  pages     = {S25--S25},
+  year      = {2018},
+  month     = nov,
+  url       = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6291609/},
+  doi       = {10.21037/atm.2018.09.27}
+}
+
+@article{hilsted1983norepinephrine,
+  author    = {Hilsted, J and others},
+  title     = {Whole Body Clearance of Norepinephrine. The Significance of Arterial Sampling and of Surgical Stress},
+  journal   = {The Journal of Clinical Investigation},
+  volume    = {71},
+  number    = {3},
+  pages     = {500--505},
+  year      = {1983},
+  url       = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC436897/},
+  doi       = {10.1172/jci110794}
+}
+
+@article{kam2004vasopressin,
+  author    = {Kam, P. C. A. and others},
+  title     = {Vasopressin and Terlipressin: Pharmacology and Its Clinical Relevance},
+  journal   = {Anaesthesia},
+  volume    = {59},
+  number    = {10},
+  pages     = {993--1001},
+  year      = {2004},
+  doi       = {10.1111/j.1365-2044.2004.03877.x}
+}
+
+@book{kelly2009cardiovascular,
+  author    = {Kelly, Michael and others},
+  title     = {Pharmacology of the Cardiovascular System},
+  publisher = {Mosby},
+  pages     = {298--331},
+  year      = {2009},
+  month     = may,
+  url       = {https://www.sciencedirect.com/science/article/abs/pii/B9780323018081500262}
+}
+
+@misc{kim2023nitroglycerin,
+  author    = {Kim, Kyle H. and Schaller, Derek J.},
+  title     = {Nitroglycerin},
+  year      = {2023},
+  publisher = {StatPearls Publishing},
+  howpublished = {\url{https://www.ncbi.nlm.nih.gov/books/NBK482382/}}
+}
+
+@article{mcniff1981nitroglycerin,
+  author    = {McNiff, E. F. and others},
+  title     = {Nitroglycerin Pharmacokinetics after Intravenous Infusion in Normal Subjects},
+  journal   = {Journal of Pharmaceutical Sciences},
+  volume    = {70},
+  number    = {9},
+  pages     = {1054--1058},
+  year      = {1981},
+  doi       = {10.1002/jps.2600700923},
+  note      = {Accessed 28 Nov. 2022}
+}
+
+@article{jay2011vasopressin,
+  author    = {Mitra, Jayanta and others},
+  title     = {Vasopressin: Its Current Role in Anesthetic Practice},
+  journal   = {Indian Journal of Critical Care Medicine},
+  volume    = {15},
+  number    = {2},
+  pages     = {71--77},
+  year      = {2011},
+  doi       = {10.4103/0972-5229.83006}
+}
+
+@article{oualha2014norepinephrine,
+  author    = {Oualha, Mehdi and others},
+  title     = {Population Pharmacokinetics and Haemodynamic Effects of Norepinephrine in Hypotensive Critically Ill Children},
+  journal   = {British Journal of Clinical Pharmacology},
+  volume    = {78},
+  number    = {4},
+  pages     = {886--897},
+  year      = {2014},
+  url       = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239982/},
+  doi       = {10.1111/bcp.12412}
+}
+
+@misc{rightdecisions_noradrenaline,
+  title     = {Noradrenaline (Critical Care Formulary) | Right Decisions},
+  howpublished = {\url{https://rightdecisions.scot.nhs.uk/...}}
+}
+
+@misc{mayo_norepinephrine,
+  title     = {Norepinephrine (Intravenous Route) Description and Brand Names - Mayo Clinic},
+  howpublished = {\url{https://www.mayoclinic.org/drugs-supplements/norepinephrine-intravenous-route/description/drg-20490844}}
+}
+
+@misc{pubchem_vasopressin,
+  title     = {Arginine Vasopressin 1-8},
+  year      = {2019},
+  howpublished = {\url{https://pubchem.ncbi.nlm.nih.gov/compound/Arginine-vasopressin-1-8}}
+}
+
+@misc{pubchem_clevidipine,
+  title     = {Clevidipine},
+  year      = {2025},
+  howpublished = {\url{https://pubchem.ncbi.nlm.nih.gov/compound/Clevidipine}}
+}
+
+@misc{pubchem_epinephrine,
+  title     = {Epinephrine},
+  year      = {2019},
+  howpublished = {\url{https://pubchem.ncbi.nlm.nih.gov/compound/Epinephrine}}
+}
+
+@misc{pubchem_nitroglycerin,
+  title     = {Nitroglycerin},
+  year      = {2019},
+  howpublished = {\url{https://pubchem.ncbi.nlm.nih.gov/compound/Nitroglycerin}}
+}
+
+@misc{pubchem_norepinephrine,
+  title     = {Norepinephrine},
+  year      = {2019},
+  howpublished = {\url{https://pubchem.ncbi.nlm.nih.gov/compound/Norepinephrine}}
+}
+
+
+@article{simons1998epinephrine,
+  author    = {Simons, F. Estelle R. and others},
+  title     = {Epinephrine Absorption in Children with a History of Anaphylaxis},
+  journal   = {Journal of Allergy and Clinical Immunology},
+  volume    = {101},
+  number    = {1},
+  pages     = {33--37},
+  year      = {1998},
+  doi       = {10.1016/s0091-6749(98)70190-3}
+}
+
+@misc{dailymed_vasopressin,
+  title     = {VASOPRESSIN INJECTION USP 20 UNITS per ML 1mL VIAL},
+  howpublished = {\url{https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=f5f03364-e71c-9bcd-e053-2995a90a8ada&type=display}}
+}
+
+@article{waterson2020pandemic,
+  author    = {Waterson, James and others},
+  title     = {Pandemic Response- Maintaining Effective and Safe IV Infusion Therapy for Critically Ill and Isolated Patients},
+  journal   = {Hospitals},
+  month     = {July-Aug},
+  year      = {2020},
+  pages     = {28--31},
+  url       = {https://www.researchgate.net/publication/342887301_Pandemic_Response-_Maintaining_Effective_and_Safe_IV_Infusion_Therapy_for_Critically_Ill_and_Isolated_Patients}
+}
